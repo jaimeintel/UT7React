@@ -12,6 +12,7 @@ function App() {
             <>
               <h1>Chatbot Inteligente para orgniazar tu viaje</h1>
               <h3>Jaime Arenal Rocha</h3>
+              <Link to="/chat">Ir al chatbot</Link>
             </>
           }
         />
